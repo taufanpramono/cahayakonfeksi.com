@@ -1,0 +1,67 @@
+.wptwa-container .wptwa-toggle,
+.wptwa-container .wptwa-mobile-close,
+.wptwa-container .wptwa-description,
+.wptwa-container .wptwa-description a {
+	background-color: #0dc152;
+	color: rgba(255, 255, 255, 1);
+}
+.wptwa-container .wptwa-description p {
+	color: rgba(255, 255, 255, 1);
+}
+.wptwa-container .wptwa-toggle svg {
+	fill: rgba(255, 255, 255, 1);
+}
+.wptwa-container .wptwa-box {
+	background-color: rgba(255, 255, 255, 1);
+}
+.wptwa-container .wptwa-gdpr,
+.wptwa-container .wptwa-account {
+	color: rgba(85, 85, 85, 1);
+}
+.wptwa-container .wptwa-account:hover {
+	background-color: rgba(245, 245, 245, 1);
+	border-color: rgba(245, 245, 245, 1);
+	color: rgba(85, 85, 85, 1);
+}
+.wptwa-box .wptwa-account,
+.wptwa-container .wptwa-account.wptwa-offline:hover {
+	border-color: #f5f5f5;
+}
+.wptwa-container .wptwa-account.wptwa-offline:hover {
+	border-radius: 0;
+}
+
+.wptwa-container .wptwa-box:before,
+.wptwa-container .wptwa-box:after {
+	background-color: rgba(255, 255, 255, 1);
+	border-color: rgba(255, 255, 255, 1);
+}
+.wptwa-container .wptwa-close:before,
+.wptwa-container .wptwa-close:after {
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.wptwa-button {
+	background-color: #0DC152 !important;
+	color: #ffffff !important;
+}
+.wptwa-button:hover {
+	background-color: #0DC152 !important;
+	color: #ffffff !important;
+}
+
+.wptwa-button.wptwa-offline,
+.wptwa-button.wptwa-offline:hover {
+	background-color: #a0a0a0 !important;
+	color: #ffffff !important;
+}
+
+@keyframes toast {
+	from {
+		background: rgba(255, 0, 0, 1);
+		}
+	
+	to {
+		background: rgba(255, 255, 255, 1);
+		}
+}

@@ -1,0 +1,9 @@
+.woobewoo-error {
+	color: #ff0000;
+}
+.wpfHidden {
+	display: none;
+}
+#toplevel_page_wpf-filters a[href*="woobewoo.com"] {
+    color: green;
+}

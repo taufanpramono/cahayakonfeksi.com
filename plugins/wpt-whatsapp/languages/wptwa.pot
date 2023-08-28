@@ -1,0 +1,687 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WhatsApp Chat Slide-In\n"
+"POT-Creation-Date: 2018-11-19 11:39+0700\n"
+"PO-Revision-Date: 2017-06-26 08:15+0700\n"
+"Last-Translator: \n"
+"Language-Team: Satu Dua <satuduaco@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: controller/floating_widget_auto_display.php:39
+msgid "Auto display saved"
+msgstr ""
+
+#: controller/floating_widget_consent_confirmation.php:42
+msgid "Consent confirmation saved"
+msgstr ""
+
+#: controller/floating_widget_display_settings.php:71
+msgid "Display settings saved"
+msgstr ""
+
+#: controller/floating_widget_selected_accounts.php:40
+msgid "Selected accounts saved"
+msgstr ""
+
+#: controller/settings.php:55
+msgid "Settings saved"
+msgstr ""
+
+#: controller/woocommerce_button.php:37
+msgid "WooCommerce button saved"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:30 includes/WPTWA_Menu_Link.php:29
+msgid "Add New Account"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:31
+msgid "New Account"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:32
+msgid "Edit Account"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:33
+msgid "View Account"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:34
+msgid "All Accounts"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:35
+msgid "Search Accounts"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:36
+msgid "Parent Accounts:"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:37
+msgid "No accounts found."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:38
+msgid "No accounts found in Trash."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:43
+msgid "WhatsApp Accounts"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:61
+msgid "Account Title"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:62
+msgid "Picture"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:63
+msgid "Number"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:64
+msgid "Time Slot"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:65
+msgid "Active Days"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:82 includes/WPTWA_Accounts.php:252
+#: includes/WPTWA_Ajax.php:78 includes/WPTWA_Templates.php:31
+msgid "to"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:91 includes/WPTWA_Accounts.php:275
+msgid "Sunday"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:94 includes/WPTWA_Accounts.php:276
+msgid "Monday"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:97 includes/WPTWA_Accounts.php:277
+msgid "Tuesday"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:100 includes/WPTWA_Accounts.php:278
+msgid "Wednesday"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:103 includes/WPTWA_Accounts.php:279
+msgid "Thursday"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:106 includes/WPTWA_Accounts.php:280
+msgid "Friday"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:109 includes/WPTWA_Accounts.php:281
+msgid "Saturday"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:127
+msgid "Links"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:136
+msgid "Shortcode for this account"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:145
+msgid "WhatsApp Account Information"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:153
+msgid "Page Targeting"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:161 view/settings.php:29
+msgid "Button Style"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:208
+msgid "Account Number or group chat URL"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:212
+#, php-format
+msgid "Refer to %s for a detailed explanation."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:217
+msgid "Name"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:223
+msgid "Title"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:229
+msgid "Predefined Text"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:232
+msgid "Use [wptwa_page_title] and [wptwa_page_url] shortcodes to output the page's title and URL respectively. "
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:236 view/settings.php:23
+msgid "Button Label"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:238 includes/WPTWA_Display.php:92
+msgid "Need help? Chat via WhatsApp"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:239
+msgid "This text applies only on shortcode button. Leave empty to use the default label."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:243
+msgid "Time Availability"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:245
+msgid "Set the time in which the account should be displayed."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:262
+msgid "Please set your time zone first so we can have an accurate time availability."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:266
+#, php-format
+msgid "Note that the timezone currently in use is %s"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:272
+msgid "Day Availability"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:274
+msgid "Check the days in which the account should be displayed."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:285
+msgid "Display based on screen width"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:287
+msgid "Hide on large screen (wider than 782px)"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:288
+msgid "Hide on small screen (narrower than 783px)"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:292
+msgid "Description text when offline"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:295
+msgid "If this field is left blank, the account will be hidden when not available."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:389
+msgid "Page targeting applies only to accounts inside the floating widget. It will be ignored on shortcode buttons. Make sure to clear the cache after saving this post if you use a caching plugin."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:394
+msgid "Show on these post types"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:398
+msgid "Homepage"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:402
+msgid "Blog Index"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:406
+msgid "Archives"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:410
+msgid "Pages"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:414
+msgid "Blog posts"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:425
+msgid "Include Pages"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:428
+msgid "Type the title of page/post to include"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:433
+msgid "Included pages:"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:435 includes/WPTWA_Accounts.php:452
+msgid "Delete"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:437
+msgid "No specific page is included."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:442
+msgid "Exclude Pages"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:445
+msgid "Type the title of page/post to exclude"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:450
+msgid "Excluded pages:"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:454
+msgid "None. All pages from checked post types above are included."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:461
+msgid "WPML Languages"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:469
+msgid "If none are selected, then the account will be displayed on all languages."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:493
+#, php-format
+msgid "This styling applies only to the shortcode buttons for this account. Floating widget has its own styling. If left blank (recommended for consistency), then the button will use the %1$s."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:493
+msgid "default styles set on the settings page"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:497 view/settings.php:38
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:501 view/settings.php:44
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:505 view/settings.php:50
+msgid "Button Background Color on Hover"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:509 view/settings.php:56
+msgid "Button Text Color on Hover"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:522
+msgid "Copy the shortcode below and paste it into the editor to display the button."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:531
+msgid "Documentation"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:532
+msgid "Live Demo"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:533
+msgid "Support"
+msgstr ""
+
+#: includes/WPTWA_Activation.php:20
+msgid "Chat with us on WhatsApp"
+msgstr ""
+
+#: includes/WPTWA_Activation.php:23
+msgid "Hi there! Click one of our representatives below and we will get back to you as soon as possible."
+msgstr ""
+
+#: includes/WPTWA_Activation.php:24
+msgid "Close and go back to page"
+msgstr ""
+
+#: includes/WPTWA_Ajax.php:38 includes/WPTWA_Ajax.php:86
+#: includes/WPTWA_Templates.php:39
+#, php-format
+msgid "[No title with ID: %s]"
+msgstr ""
+
+#: includes/WPTWA_Ajax.php:48 includes/WPTWA_Ajax.php:102
+msgid "No Result"
+msgstr ""
+
+#: includes/WPTWA_Ajax.php:88 includes/WPTWA_Templates.php:48
+msgid "Remove"
+msgstr ""
+
+#: includes/WPTWA_Display.php:402
+msgid "Go back to page"
+msgstr ""
+
+#: includes/WPTWA_Menu_Link.php:21
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/WPTWA_Menu_Link.php:36 view/floating_widget_header.php:13
+msgid "Floating Widget"
+msgstr ""
+
+#: includes/WPTWA_Menu_Link.php:43 view/woocommerce_button.php:2
+msgid "WooCommerce Button"
+msgstr ""
+
+#: includes/WPTWA_Menu_Link.php:50 includes/WPTWA_Menu_Link.php:98
+#: view/settings.php:14
+msgid "Settings"
+msgstr ""
+
+#: includes/WPTWA_Menu_Link.php:105
+msgid "Read Documentation"
+msgstr ""
+
+#: includes/WPTWA_Menu_Link.php:106
+msgid "Get Support"
+msgstr ""
+
+#: includes/WPTWA_Menu_Link.php:133
+msgid "Version"
+msgstr ""
+
+#: includes/WPTWA_Menu_Link.php:134
+msgid "by"
+msgstr ""
+
+#: includes/WPTWA_Templates.php:61
+msgid "Type the title of the accounts you want to display"
+msgstr ""
+
+#: includes/WPTWA_Templates.php:67
+msgid "Selected Accounts:"
+msgstr ""
+
+#: includes/WPTWA_Utils.php:37
+msgid "Something is wrong: The view is not set yet. Please contact the developer."
+msgstr ""
+
+#: includes/WPTWA_Utils.php:40
+msgid "Something is wrong: The view not found. Please contact the developer."
+msgstr ""
+
+#: includes/WPTWA_WooCommerce.php:101
+msgid "WhatsApp Contact Button"
+msgstr ""
+
+#: includes/WPTWA_WooCommerce.php:111
+msgid "You can set a custom WhatsApp button for this product. Leave the following fields blank if you wish to use the default values."
+msgstr ""
+
+#: includes/WPTWA_WooCommerce.php:115
+msgid "Remove Button"
+msgstr ""
+
+#: includes/WPTWA_WooCommerce.php:117
+msgid "Remove WhatsApp button for this product"
+msgstr ""
+
+#: includes/WPTWA_WooCommerce.php:126 view/floating_widget_header.php:18
+msgid "Selected Accounts"
+msgstr ""
+
+#: view/floating_widget_auto_display.php:7
+msgid "The fields below should have a numeric value of more than 0 for the feature to work."
+msgstr ""
+
+#: view/floating_widget_auto_display.php:12
+msgid "Delay Time"
+msgstr ""
+
+#: view/floating_widget_auto_display.php:14
+#: view/floating_widget_auto_display.php:20
+msgid "second(s)"
+msgstr ""
+
+#: view/floating_widget_auto_display.php:18
+msgid "Inactivity Time"
+msgstr ""
+
+#: view/floating_widget_auto_display.php:24
+msgid "Scroll Length"
+msgstr ""
+
+#: view/floating_widget_auto_display.php:26
+msgid "%"
+msgstr ""
+
+#: view/floating_widget_auto_display.php:30
+msgid "Disable on mobile"
+msgstr ""
+
+#: view/floating_widget_auto_display.php:32
+msgid "Yes, disable auto display on small screen."
+msgstr ""
+
+#: view/floating_widget_auto_display.php:36
+msgid "Disable when no one is online"
+msgstr ""
+
+#: view/floating_widget_auto_display.php:38
+msgid "Yes, disable auto display when no one is online."
+msgstr ""
+
+#: view/floating_widget_auto_display.php:47
+msgid "Save Auto Display"
+msgstr ""
+
+#: view/floating_widget_consent_confirmation.php:7
+msgid "The following fields are optional. Use only if you need to comply with GDPR"
+msgstr ""
+
+#: view/floating_widget_consent_confirmation.php:12
+msgid "Consent Description"
+msgstr ""
+
+#: view/floating_widget_consent_confirmation.php:25
+msgid "Consent Checkbox Text Label"
+msgstr ""
+
+#: view/floating_widget_consent_confirmation.php:37
+msgid "Alert Background Color"
+msgstr ""
+
+#: view/floating_widget_consent_confirmation.php:48
+msgid "Save Consent Confirmation"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:13
+msgid "Use the form below to set the text and style for the floating widget."
+msgstr ""
+
+#: view/floating_widget_display_settings.php:18
+msgid "Toggle Text"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:21
+msgid "If left blank, the toggle will be round regardless of the Toggle Type by Device fields' values."
+msgstr ""
+
+#: view/floating_widget_display_settings.php:25
+msgid "Toggle Text Color"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:31
+msgid "Toggle Background Color"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:37
+msgid "Toggle Type by Device"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:39
+msgid "Show rounded toggle on desktop"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:40
+msgid "Show rounded toggle on mobile"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:44
+msgid "Description"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:57
+msgid "Container Text Color"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:63
+msgid "Container Background Color"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:69
+msgid "Account Item Background Color on Hover"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:75
+msgid "Account Item Text Color on Hover"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:81
+msgid "Border Color Between Accounts"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:87
+msgid "Box Position"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:89
+msgid "Bottom Left"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:90
+msgid "Bottom Right"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:94
+msgid "Center Toggle on Small Screen"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:96
+msgid "Yes, put the toggle at the bottom center on small screen"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:100
+msgid "Randomize Accounts Order"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:102
+msgid "Yes, randomize the order of accounts"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:106
+msgid "Total accounts shown"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:109
+msgid "If the value is zero (0), then all the selected accounts will be displayed."
+msgstr ""
+
+#: view/floating_widget_display_settings.php:118
+msgid "Save Display Settings"
+msgstr ""
+
+#: view/floating_widget_header.php:19
+msgid "Display Settings"
+msgstr ""
+
+#: view/floating_widget_header.php:20
+msgid "Auto Display"
+msgstr ""
+
+#: view/floating_widget_header.php:21
+msgid "Consent Confirmation"
+msgstr ""
+
+#: view/floating_widget_selected_accounts.php:7
+msgid "Select one or more accounts to display on the floating widget."
+msgstr ""
+
+#: view/floating_widget_selected_accounts.php:14
+msgid "Save Selected Accounts"
+msgstr ""
+
+#: view/settings.php:19
+msgid "Use this form to set default style for shortcode buttons. You can reset the style for individual button when creating/editing a WhatsApp account."
+msgstr ""
+
+#: view/settings.php:32
+msgid "Boxed"
+msgstr ""
+
+#: view/settings.php:33
+msgid "Round"
+msgstr ""
+
+#: view/settings.php:63
+msgid "Button Background Color When Offline"
+msgstr ""
+
+#: view/settings.php:69
+msgid "Button Text Color When Offline"
+msgstr ""
+
+#: view/settings.php:80
+msgid "Save Changes"
+msgstr ""
+
+#: view/woocommerce_button.php:7
+msgid "Use the form below to automatically display buttons on WooCommerce product page."
+msgstr ""
+
+#: view/woocommerce_button.php:12
+msgid "Button position"
+msgstr ""
+
+#: view/woocommerce_button.php:15
+msgid "After short description"
+msgstr ""
+
+#: view/woocommerce_button.php:16
+msgid "After long description"
+msgstr ""
+
+#: view/woocommerce_button.php:17
+msgid "Before Add to Cart button"
+msgstr ""
+
+#: view/woocommerce_button.php:18
+msgid "After Add to Cart button"
+msgstr ""
+
+#: view/woocommerce_button.php:23
+msgid "Select accounts to display"
+msgstr ""
+
+#: view/woocommerce_button.php:32
+msgid "Save WooCommerce Button"
+msgstr ""

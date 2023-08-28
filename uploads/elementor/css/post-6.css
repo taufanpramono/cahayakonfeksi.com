@@ -1,0 +1,21 @@
+.elementor-kit-6{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.menu-badge {
+	font-size: 9px;
+	margin-left: 4px;
+	position: relative;
+	top: -10px;
+	margin-bottom: 13px;
+	color: #ffffff;
+	background-color: green;
+	padding: 3px 4px;
+	border-radius: 3px;
+	line-height: 1.5em;
+}
+
+.badge-bounce {
+	animation: bouncing .8s cubic-bezier(0.1,0.05,0.05,1) 0s infinite alternate both;
+}
+
+@keyframes bouncing{
+	0%{top:-6px}
+	100%{top:-10px}
+}/* End custom CSS */

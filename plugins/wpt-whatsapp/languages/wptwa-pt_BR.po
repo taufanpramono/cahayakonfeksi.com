@@ -1,0 +1,775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WhatsApp Chat Slide-In\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-19 11:41+0700\n"
+"PO-Revision-Date: 2018-11-19 11:43+0700\n"
+"Last-Translator: infinit0 <contato@infinit0.com.br>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: controller/floating_widget_auto_display.php:39
+msgid "Auto display saved"
+msgstr ""
+
+#: controller/floating_widget_consent_confirmation.php:42
+msgid "Consent confirmation saved"
+msgstr "Confirmação de consentimento salva"
+
+#: controller/floating_widget_display_settings.php:71
+msgid "Display settings saved"
+msgstr "Ajustes de exibição salvos"
+
+#: controller/floating_widget_selected_accounts.php:40
+msgid "Selected accounts saved"
+msgstr "Contas selecionadas salvas"
+
+#: controller/settings.php:55
+msgid "Settings saved"
+msgstr "Ajustes salvos"
+
+#: controller/woocommerce_button.php:37
+msgid "WooCommerce button saved"
+msgstr "Botão WooCommerce salvo"
+
+#: includes/WPTWA_Accounts.php:30 includes/WPTWA_Menu_Link.php:29
+msgid "Add New Account"
+msgstr "Adicionar Nova Conta"
+
+#: includes/WPTWA_Accounts.php:31
+msgid "New Account"
+msgstr "Nova Conta"
+
+#: includes/WPTWA_Accounts.php:32
+msgid "Edit Account"
+msgstr "Editar conta"
+
+#: includes/WPTWA_Accounts.php:33
+msgid "View Account"
+msgstr "Ver Conta"
+
+#: includes/WPTWA_Accounts.php:34
+msgid "All Accounts"
+msgstr "Todas Contas"
+
+#: includes/WPTWA_Accounts.php:35
+msgid "Search Accounts"
+msgstr "Procurar contas"
+
+#: includes/WPTWA_Accounts.php:36
+msgid "Parent Accounts:"
+msgstr "Contas pai:"
+
+#: includes/WPTWA_Accounts.php:37
+msgid "No accounts found."
+msgstr "Nenhuma conta foi encontrada."
+
+#: includes/WPTWA_Accounts.php:38
+msgid "No accounts found in Trash."
+msgstr "Nenhuma conta foi encontrada na lixeira."
+
+#: includes/WPTWA_Accounts.php:43
+msgid "WhatsApp Accounts"
+msgstr "Contas WhatsApp"
+
+#: includes/WPTWA_Accounts.php:61
+msgid "Account Title"
+msgstr "Título da Conta"
+
+#: includes/WPTWA_Accounts.php:62
+msgid "Picture"
+msgstr "Imagem"
+
+#: includes/WPTWA_Accounts.php:63
+msgid "Number"
+msgstr "Número"
+
+#: includes/WPTWA_Accounts.php:64
+msgid "Time Slot"
+msgstr "Espaço de tempo"
+
+#: includes/WPTWA_Accounts.php:65
+msgid "Active Days"
+msgstr "Dias ativo"
+
+#: includes/WPTWA_Accounts.php:82 includes/WPTWA_Accounts.php:252
+#: includes/WPTWA_Ajax.php:78 includes/WPTWA_Templates.php:31
+msgid "to"
+msgstr "para"
+
+#: includes/WPTWA_Accounts.php:91 includes/WPTWA_Accounts.php:275
+msgid "Sunday"
+msgstr "Domingo"
+
+#: includes/WPTWA_Accounts.php:94 includes/WPTWA_Accounts.php:276
+msgid "Monday"
+msgstr "Segunda-feira"
+
+#: includes/WPTWA_Accounts.php:97 includes/WPTWA_Accounts.php:277
+msgid "Tuesday"
+msgstr "Terça-feira"
+
+#: includes/WPTWA_Accounts.php:100 includes/WPTWA_Accounts.php:278
+msgid "Wednesday"
+msgstr "Quarta-feira"
+
+#: includes/WPTWA_Accounts.php:103 includes/WPTWA_Accounts.php:279
+msgid "Thursday"
+msgstr "Quinta-feira"
+
+#: includes/WPTWA_Accounts.php:106 includes/WPTWA_Accounts.php:280
+msgid "Friday"
+msgstr "Sexta-feira"
+
+#: includes/WPTWA_Accounts.php:109 includes/WPTWA_Accounts.php:281
+msgid "Saturday"
+msgstr "Sábado"
+
+#: includes/WPTWA_Accounts.php:127
+msgid "Links"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:136
+msgid "Shortcode for this account"
+msgstr "Código de atalho para essa conta"
+
+#: includes/WPTWA_Accounts.php:145
+msgid "WhatsApp Account Information"
+msgstr "Informação da Conta WhatsApp"
+
+#: includes/WPTWA_Accounts.php:153
+msgid "Page Targeting"
+msgstr "Páginas Alvo"
+
+#: includes/WPTWA_Accounts.php:161 view/settings.php:29
+msgid "Button Style"
+msgstr "Estilo do botão"
+
+#: includes/WPTWA_Accounts.php:208
+msgid "Account Number or group chat URL"
+msgstr "Número do telefone ou url do grupo de chat"
+
+#: includes/WPTWA_Accounts.php:212
+#, php-format
+msgid "Refer to %s for a detailed explanation."
+msgstr "Referir ao %s para uma explicação detalhada."
+
+#: includes/WPTWA_Accounts.php:217
+msgid "Name"
+msgstr "Nome"
+
+#: includes/WPTWA_Accounts.php:223
+msgid "Title"
+msgstr "Título"
+
+#: includes/WPTWA_Accounts.php:229
+msgid "Predefined Text"
+msgstr "Texto pré-definido"
+
+#: includes/WPTWA_Accounts.php:232
+msgid ""
+"Use [wptwa_page_title] and [wptwa_page_url] shortcodes to output the page's "
+"title and URL respectively. "
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:236 view/settings.php:23
+msgid "Button Label"
+msgstr "Texto do botão"
+
+#: includes/WPTWA_Accounts.php:238 includes/WPTWA_Display.php:92
+msgid "Need help? Chat via WhatsApp"
+msgstr "Precisa de ajuda? Converse via WhatsApp"
+
+#: includes/WPTWA_Accounts.php:239
+msgid ""
+"This text applies only on shortcode button. Leave empty to use the default "
+"label."
+msgstr ""
+"Esse texto é aplicado somente no botão via código de atalho. Deixe em branco "
+"para usar o texto padrão."
+
+#: includes/WPTWA_Accounts.php:243
+msgid "Time Availability"
+msgstr "Disponibilidade de Horário"
+
+#: includes/WPTWA_Accounts.php:245
+msgid "Set the time in which the account should be displayed."
+msgstr "Defina o horário que essa conta deve ser exibida."
+
+#: includes/WPTWA_Accounts.php:262
+msgid ""
+"Please set your time zone first so we can have an accurate time availability."
+msgstr ""
+"Defina sua zone de tempo primeiro para podermos calcular a disponibilidade "
+"de tempo precisamente."
+
+#: includes/WPTWA_Accounts.php:266
+#, php-format
+msgid "Note that the timezone currently in use is %s"
+msgstr "Observe que a zona de tempo atual é %s"
+
+#: includes/WPTWA_Accounts.php:272
+msgid "Day Availability"
+msgstr "Disponibilidade de Dias"
+
+#: includes/WPTWA_Accounts.php:274
+msgid "Check the days in which the account should be displayed."
+msgstr "Marque os dias em que essa conta deverá ser exibida."
+
+#: includes/WPTWA_Accounts.php:285
+msgid "Display based on screen width"
+msgstr "Exibir baseado na largura da tela"
+
+#: includes/WPTWA_Accounts.php:287
+msgid "Hide on large screen (wider than 782px)"
+msgstr "Esconde em telas grandes (maiores de 782px)"
+
+#: includes/WPTWA_Accounts.php:288
+msgid "Hide on small screen (narrower than 783px)"
+msgstr "Esconde em telas pequenas (menores que 783px)"
+
+#: includes/WPTWA_Accounts.php:292
+msgid "Description text when offline"
+msgstr "Descrição do texto quando estiver off-line"
+
+#: includes/WPTWA_Accounts.php:295
+msgid ""
+"If this field is left blank, the account will be hidden when not available."
+msgstr ""
+"Se este campo for deixado em branco, a conta ficará oculta quando não "
+"estiver disponível."
+
+#: includes/WPTWA_Accounts.php:389
+msgid ""
+"Page targeting applies only to accounts inside the floating widget. It will "
+"be ignored on shortcode buttons. Make sure to clear the cache after saving "
+"this post if you use a caching plugin."
+msgstr ""
+"Páginas alvo somente são aplicadas para o widget flutuante. Isso será "
+"ignorado ao utilizar os botões via código de atalho. Tenha certeza de limpar "
+"seu cache depois de salvar isso."
+
+#: includes/WPTWA_Accounts.php:394
+msgid "Show on these post types"
+msgstr "Exibir em todos esses tipos de posts"
+
+#: includes/WPTWA_Accounts.php:398
+msgid "Homepage"
+msgstr "Página Inicial"
+
+#: includes/WPTWA_Accounts.php:402
+msgid "Blog Index"
+msgstr "Index do Blog"
+
+#: includes/WPTWA_Accounts.php:406
+msgid "Archives"
+msgstr "Arquivos"
+
+#: includes/WPTWA_Accounts.php:410
+msgid "Pages"
+msgstr "Páginas"
+
+#: includes/WPTWA_Accounts.php:414
+msgid "Blog posts"
+msgstr "Posts"
+
+#: includes/WPTWA_Accounts.php:425
+msgid "Include Pages"
+msgstr "Incluir Páginas"
+
+#: includes/WPTWA_Accounts.php:428
+msgid "Type the title of page/post to include"
+msgstr "Digite o título da página/post para incluir"
+
+#: includes/WPTWA_Accounts.php:433
+msgid "Included pages:"
+msgstr "Páginas incluídas:"
+
+#: includes/WPTWA_Accounts.php:435 includes/WPTWA_Accounts.php:452
+msgid "Delete"
+msgstr "Deletar"
+
+#: includes/WPTWA_Accounts.php:437
+msgid "No specific page is included."
+msgstr "Nenhuma página específica foi incluída."
+
+#: includes/WPTWA_Accounts.php:442
+msgid "Exclude Pages"
+msgstr "Excluir páginas"
+
+#: includes/WPTWA_Accounts.php:445
+msgid "Type the title of page/post to exclude"
+msgstr "Digite o título da página/post para excluir"
+
+#: includes/WPTWA_Accounts.php:450
+msgid "Excluded pages:"
+msgstr "Páginas excluídas:"
+
+#: includes/WPTWA_Accounts.php:454
+msgid "None. All pages from checked post types above are included."
+msgstr ""
+"Nenhuma. Todas as páginas dos tipos de posts selecionados abaixo serão "
+"incluídas."
+
+#: includes/WPTWA_Accounts.php:461
+msgid "WPML Languages"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:469
+msgid ""
+"If none are selected, then the account will be displayed on all languages."
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:493
+#, php-format
+msgid ""
+"This styling applies only to the shortcode buttons for this account. "
+"Floating widget has its own styling. If left blank (recommended for "
+"consistency), then the button will use the %1$s."
+msgstr ""
+"Esses ajustes de estilo são somente para os botões dessa conta. O Widget "
+"flutuante tem seu próprio estilo. Se você deixar em branco (o que é "
+"recomendado), o botão irá usar os %1$s."
+
+#: includes/WPTWA_Accounts.php:493
+msgid "default styles set on the settings page"
+msgstr "estilos padrões definidos na página de ajuste"
+
+#: includes/WPTWA_Accounts.php:497 view/settings.php:38
+msgid "Button Background Color"
+msgstr "Cor de fundo do botão"
+
+#: includes/WPTWA_Accounts.php:501 view/settings.php:44
+msgid "Button Text Color"
+msgstr "Cor de texto do botão"
+
+#: includes/WPTWA_Accounts.php:505 view/settings.php:50
+msgid "Button Background Color on Hover"
+msgstr "Cor de fundo do botão ao passar o mouse"
+
+#: includes/WPTWA_Accounts.php:509 view/settings.php:56
+msgid "Button Text Color on Hover"
+msgstr "Cor de texto do botão ao passar o mouse"
+
+#: includes/WPTWA_Accounts.php:522
+msgid ""
+"Copy the shortcode below and paste it into the editor to display the button."
+msgstr ""
+"Copie o código de atalho abaixo e cole no seu editor para exibir o botão."
+
+#: includes/WPTWA_Accounts.php:531
+msgid "Documentation"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:532
+msgid "Live Demo"
+msgstr ""
+
+#: includes/WPTWA_Accounts.php:533
+msgid "Support"
+msgstr "Suporte"
+
+#: includes/WPTWA_Activation.php:20
+msgid "Chat with us on WhatsApp"
+msgstr "Fale Conosco via WhatsApp"
+
+#: includes/WPTWA_Activation.php:23
+msgid ""
+"Hi there! Click one of our representatives below and we will get back to you "
+"as soon as possible."
+msgstr ""
+"Olá! Clique em um de nossos representantes abaixo e entraremos em contato o "
+"mais rápido possível."
+
+#: includes/WPTWA_Activation.php:24
+msgid "Close and go back to page"
+msgstr ""
+
+#: includes/WPTWA_Ajax.php:38 includes/WPTWA_Ajax.php:86
+#: includes/WPTWA_Templates.php:39
+#, php-format
+msgid "[No title with ID: %s]"
+msgstr "[Nenhum título com ID: %s]"
+
+#: includes/WPTWA_Ajax.php:48 includes/WPTWA_Ajax.php:102
+msgid "No Result"
+msgstr "Nenhum resultado"
+
+#: includes/WPTWA_Ajax.php:88 includes/WPTWA_Templates.php:48
+msgid "Remove"
+msgstr "Remover"
+
+#: includes/WPTWA_Display.php:402
+msgid "Go back to page"
+msgstr "Voltar para a página"
+
+#: includes/WPTWA_Menu_Link.php:21
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: includes/WPTWA_Menu_Link.php:36 view/floating_widget_header.php:13
+msgid "Floating Widget"
+msgstr "Widget Flutuando"
+
+#: includes/WPTWA_Menu_Link.php:43 view/woocommerce_button.php:2
+msgid "WooCommerce Button"
+msgstr "Botão WooCommerce"
+
+#: includes/WPTWA_Menu_Link.php:50 includes/WPTWA_Menu_Link.php:98
+#: view/settings.php:14
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/WPTWA_Menu_Link.php:105
+msgid "Read Documentation"
+msgstr ""
+
+#: includes/WPTWA_Menu_Link.php:106
+msgid "Get Support"
+msgstr ""
+
+#: includes/WPTWA_Menu_Link.php:133
+msgid "Version"
+msgstr "Versão"
+
+#: includes/WPTWA_Menu_Link.php:134
+msgid "by"
+msgstr "por"
+
+#: includes/WPTWA_Templates.php:61
+msgid "Type the title of the accounts you want to display"
+msgstr "Digite o nome das contas que você quer exibir"
+
+#: includes/WPTWA_Templates.php:67
+msgid "Selected Accounts:"
+msgstr "Contas selecionadas:"
+
+#: includes/WPTWA_Utils.php:37
+msgid ""
+"Something is wrong: The view is not set yet. Please contact the developer."
+msgstr "Algo deu errado: \"The view is not set yet\". Contate o desenvolvedor."
+
+#: includes/WPTWA_Utils.php:40
+msgid "Something is wrong: The view not found. Please contact the developer."
+msgstr "Algo deu errado: \"The view not found\". Contate o desenvolvedor."
+
+#: includes/WPTWA_WooCommerce.php:101
+msgid "WhatsApp Contact Button"
+msgstr "Botão de contato Whatsapp"
+
+#: includes/WPTWA_WooCommerce.php:111
+msgid ""
+"You can set a custom WhatsApp button for this product. Leave the following "
+"fields blank if you wish to use the default values."
+msgstr ""
+"Você pode utilizar um botão customizado de WhatsApp para esse produto. Deixe "
+"os campos a seguir em branco se quiser utilizar os valores padrões."
+
+#: includes/WPTWA_WooCommerce.php:115
+msgid "Remove Button"
+msgstr "Remover botão"
+
+#: includes/WPTWA_WooCommerce.php:117
+msgid "Remove WhatsApp button for this product"
+msgstr "Remova o botão de WhatsApp para esse produto"
+
+#: includes/WPTWA_WooCommerce.php:126 view/floating_widget_header.php:18
+msgid "Selected Accounts"
+msgstr "Contas selecionadas"
+
+#: view/floating_widget_auto_display.php:7
+msgid ""
+"The fields below should have a numeric value of more than 0 for the feature "
+"to work."
+msgstr ""
+
+#: view/floating_widget_auto_display.php:12
+msgid "Delay Time"
+msgstr "Tempo de atraso"
+
+#: view/floating_widget_auto_display.php:14
+#: view/floating_widget_auto_display.php:20
+msgid "second(s)"
+msgstr "segundo(s)"
+
+#: view/floating_widget_auto_display.php:18
+msgid "Inactivity Time"
+msgstr "Tempo inativo"
+
+#: view/floating_widget_auto_display.php:24
+msgid "Scroll Length"
+msgstr "Comprimento de Rolagem"
+
+#: view/floating_widget_auto_display.php:26
+msgid "%"
+msgstr "%"
+
+#: view/floating_widget_auto_display.php:30
+msgid "Disable on mobile"
+msgstr "desativar no celular"
+
+#: view/floating_widget_auto_display.php:32
+msgid "Yes, disable auto display on small screen."
+msgstr "Sim, desative a exibição automática em tela pequena."
+
+#: view/floating_widget_auto_display.php:36
+msgid "Disable when no one is online"
+msgstr "desativar quando ninguém estiver online"
+
+#: view/floating_widget_auto_display.php:38
+msgid "Yes, disable auto display when no one is online."
+msgstr ""
+
+#: view/floating_widget_auto_display.php:47
+msgid "Save Auto Display"
+msgstr ""
+
+#: view/floating_widget_consent_confirmation.php:7
+msgid ""
+"The following fields are optional. Use only if you need to comply with GDPR"
+msgstr ""
+
+#: view/floating_widget_consent_confirmation.php:12
+msgid "Consent Description"
+msgstr ""
+
+#: view/floating_widget_consent_confirmation.php:25
+msgid "Consent Checkbox Text Label"
+msgstr ""
+
+#: view/floating_widget_consent_confirmation.php:37
+msgid "Alert Background Color"
+msgstr ""
+
+#: view/floating_widget_consent_confirmation.php:48
+msgid "Save Consent Confirmation"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:13
+msgid "Use the form below to set the text and style for the floating widget."
+msgstr ""
+"Use esse formulário abaixo para definir o texto e estilo do widget flutuante."
+
+#: view/floating_widget_display_settings.php:18
+msgid "Toggle Text"
+msgstr "Texto"
+
+#: view/floating_widget_display_settings.php:21
+msgid ""
+"If left blank, the toggle will be round regardless of the Toggle Type by "
+"Device fields' values."
+msgstr ""
+"Se deixado em branco, a alternância será arredondada, independentemente dos "
+"valores dos campos Alternar tipo por dispositivo."
+
+#: view/floating_widget_display_settings.php:25
+msgid "Toggle Text Color"
+msgstr "Cor do texto"
+
+#: view/floating_widget_display_settings.php:31
+msgid "Toggle Background Color"
+msgstr "Cor de Fundo"
+
+#: view/floating_widget_display_settings.php:37
+msgid "Toggle Type by Device"
+msgstr "Tipo de dispositivo"
+
+#: view/floating_widget_display_settings.php:39
+msgid "Show rounded toggle on desktop"
+msgstr "Exibir arredondado no Desktop"
+
+#: view/floating_widget_display_settings.php:40
+msgid "Show rounded toggle on mobile"
+msgstr "Exibir arredondado em dispositivos móveis"
+
+#: view/floating_widget_display_settings.php:44
+msgid "Description"
+msgstr "Descrição"
+
+#: view/floating_widget_display_settings.php:57
+msgid "Container Text Color"
+msgstr "Cor de texto do Container"
+
+#: view/floating_widget_display_settings.php:63
+msgid "Container Background Color"
+msgstr "Cor de fundo do Container"
+
+#: view/floating_widget_display_settings.php:69
+msgid "Account Item Background Color on Hover"
+msgstr "Cor de fundo ao passar o mouse no Item da conta"
+
+#: view/floating_widget_display_settings.php:75
+msgid "Account Item Text Color on Hover"
+msgstr "Cor de texto ao passar o mouse no Item da conta"
+
+#: view/floating_widget_display_settings.php:81
+msgid "Border Color Between Accounts"
+msgstr "Cor de borda entre contas"
+
+#: view/floating_widget_display_settings.php:87
+msgid "Box Position"
+msgstr "Posição da caixa"
+
+#: view/floating_widget_display_settings.php:89
+msgid "Bottom Left"
+msgstr "Embaixo Esquerda"
+
+#: view/floating_widget_display_settings.php:90
+msgid "Bottom Right"
+msgstr "Embaixo Direita"
+
+#: view/floating_widget_display_settings.php:94
+msgid "Center Toggle on Small Screen"
+msgstr "Centralizar em pequenas telas"
+
+#: view/floating_widget_display_settings.php:96
+msgid "Yes, put the toggle at the bottom center on small screen"
+msgstr "Sim, coloque o botão centralizado em pequenas telas"
+
+#: view/floating_widget_display_settings.php:100
+msgid "Randomize Accounts Order"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:102
+msgid "Yes, randomize the order of accounts"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:106
+msgid "Total accounts shown"
+msgstr ""
+
+#: view/floating_widget_display_settings.php:109
+msgid ""
+"If the value is zero (0), then all the selected accounts will be displayed."
+msgstr ""
+
+#: view/floating_widget_display_settings.php:118
+msgid "Save Display Settings"
+msgstr "Salvar Ajustes de Exibição"
+
+#: view/floating_widget_header.php:19
+msgid "Display Settings"
+msgstr ""
+
+#: view/floating_widget_header.php:20
+msgid "Auto Display"
+msgstr ""
+
+#: view/floating_widget_header.php:21
+msgid "Consent Confirmation"
+msgstr "Confirmação de consentimento"
+
+#: view/floating_widget_selected_accounts.php:7
+msgid "Select one or more accounts to display on the floating widget."
+msgstr "Selecione uma ou mais contas para exibir no widget flutuante."
+
+#: view/floating_widget_selected_accounts.php:14
+msgid "Save Selected Accounts"
+msgstr "Salvar contas selecionadas"
+
+#: view/settings.php:19
+msgid ""
+"Use this form to set default style for shortcode buttons. You can reset the "
+"style for individual button when creating/editing a WhatsApp account."
+msgstr ""
+"Use esse formulário para definir o estilo dos botões via código de atalho. "
+"Você pode resetar o estilo de cada botão individualmente quando criar/editar "
+"uma conta WhatsApp."
+
+#: view/settings.php:32
+msgid "Boxed"
+msgstr "Quadrado"
+
+#: view/settings.php:33
+msgid "Round"
+msgstr ""
+
+#: view/settings.php:63
+msgid "Button Background Color When Offline"
+msgstr "Cor do plano de fundo do botão quando estiver off-line"
+
+#: view/settings.php:69
+msgid "Button Text Color When Offline"
+msgstr "Cor do texto do botão quando estiver off-line"
+
+#: view/settings.php:80
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: view/woocommerce_button.php:7
+msgid ""
+"Use the form below to automatically display buttons on WooCommerce product "
+"page."
+msgstr ""
+"Use esse formulário abaixo para automaticamente exibir botões na página do "
+"produto WooCommerce."
+
+#: view/woocommerce_button.php:12
+msgid "Button position"
+msgstr "Posição do botão"
+
+#: view/woocommerce_button.php:15
+msgid "After short description"
+msgstr "Depois da descrição curta"
+
+#: view/woocommerce_button.php:16
+msgid "After long description"
+msgstr "Depois da descrição longa"
+
+#: view/woocommerce_button.php:17
+msgid "Before Add to Cart button"
+msgstr "Antes do botão Adicionar ao carrinho"
+
+#: view/woocommerce_button.php:18
+msgid "After Add to Cart button"
+msgstr "Depois do botão Adicionar ao carrinho"
+
+#: view/woocommerce_button.php:23
+msgid "Select accounts to display"
+msgstr "Selecione as contas para exibir"
+
+#: view/woocommerce_button.php:32
+msgid "Save WooCommerce Button"
+msgstr "Salvar botão para WooCommerce"
+
+#~ msgid "If this field is left blank, it will be hidden when not available."
+#~ msgstr ""
+#~ "Se este campo for deixado em branco, a conta ficará oculta quando não "
+#~ "estiver disponível"
+
+#~ msgid "Load-in settings saved"
+#~ msgstr "Ajustes carregados salvos"
+
+#~ msgid ""
+#~ "Use [wptwa_title] and [wptwa_permalink] shortcodes to output the page's "
+#~ "title and URL respectively. "
+#~ msgstr ""
+#~ "Use [wptwa_title] e [wptwa_permalink] como códigos de atalho para exibir "
+#~ "o título da página e sua URL. "
+
+#~ msgid "Docs"
+#~ msgstr "Docs"
+
+#~ msgid ""
+#~ "The fields below should have a numeric value of more than 0 for the "
+#~ "feature to work. Note that this feature is not for mobile device."
+#~ msgstr ""
+#~ "Os campos abaixo devem ser valores numéricos maiores que 0 para essa "
+#~ "funcionalidade funcionar. Nota: essa funcionalidade não é para "
+#~ "dispositivos móveis."
+
+#~ msgid "Save Load-in Settings"
+#~ msgstr "Salvar os ajustes carregados"
+
+#~ msgid "Ellipse"
+#~ msgstr "Ellipse"
